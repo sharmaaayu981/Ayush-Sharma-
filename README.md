@@ -9,6 +9,8 @@ I am also working on IoT Based projects i am also a Cloud enthusiast. For more i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><br><br>
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=sharmaaayu981&show_icons=true&theme=radical)
+<img style="margin-left=500px" src="0.jpg" alt="pic" width="450px" height="195px"><br>
+
 
 <br>Outside of [GitHub](https://github.com/sharmaaayu981),  You can **find me. Currently I'm **free to contribute**<br><br>
 [![Twitter: Ayush Sharma](https://img.shields.io/twitter/follow/i_ayush_sharma?style=social)](https://twitter.com/i_ayush_Sharma)
