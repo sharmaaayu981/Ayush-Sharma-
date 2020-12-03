@@ -7,7 +7,10 @@ I am also working on IoT Based projects i am also a Cloud enthusiast. For more i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><br><br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<a href="https://dev.to/sharmaaayu981">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Sharma's DEV Profile" height="30" width="30">
+</a><br><br>
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=sharmaaayu981&show_icons=true&theme=radical)
 
 <br>Outside of [GitHub](https://github.com/sharmaaayu981),  You can **find me. Currently I'm **free to contribute**<br><br>
@@ -16,3 +19,5 @@ I am also working on IoT Based projects i am also a Cloud enthusiast. For more i
 [![Medium: Ayush Sharma](https://img.shields.io/badge/-@sharmaayush981-blue?style=flat-square&logo=Medium&logoColor=white&link=https://https://medium.com/@sharmaaayu981/)](https://medium.com/@sharmaaayu981)
 [![GitHub Ayush Sharma](https://img.shields.io/github/followers/sharmaaayu981?label=follow&style=social)](https://github.com/sharmaaayu981)
 <p><a href="https://iayush.web.app">🌐 Check out my website</a></p>
+
+        
